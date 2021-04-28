@@ -1,0 +1,33 @@
+#header{
+  display:flex;
+}
+.logo{
+
+  
+  width: 25%;
+
+}
+#header-img{
+  width:300px;
+  height:50px;
+}
+#nav-bar{
+   
+  width:100%;
+  padding-left:44%;
+}
+li{
+  float:left;
+  display:inline;
+  padding-right:155px;
+  color:black;
+  font-size:16px;
+  font-family:lato;
+}
+.container{
+  margin:0 auto;
+  margin-top:70px;
+  background:black;
+ 
+  max-width:760px;
+}
