@@ -27,7 +27,45 @@ li{
 .container{
   margin:0 auto;
   margin-top:70px;
-  background:black;
+
  
   max-width:760px;
+  text-align:center
 }
+#email_input{
+  width:320px;
+  height:23px;
+}
+#submit{
+  width:150px;
+  height:27px;
+  margin-top:10px;
+      background-color: #f1c40f;
+      font-size: 0.9em;
+    font-weight: 900;
+    text-transform: uppercase;
+  border:none;
+}
+body{
+      background: #eeeeee;
+}
+.features{
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+}
+.flex{
+  width:50%;
+  border:1px solid black;
+  height:150px;
+  
+}
+.how_it_work{
+  display:flex;
+  justify-content:center;
+}
+#vid{
+  width:25%;
+  
+}
+
