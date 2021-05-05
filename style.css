@@ -67,6 +67,7 @@ body{
 }
 #vid{
   width:35%;
+ height:285px;
   
 }
 .pricing{
@@ -93,8 +94,20 @@ h3{
   padding :7px 15px;
 }
 footer{
-  background:black;
-  height:15px;
+  background:#ddd;
+  height:75px;
   margin: 0 auto;
   max-width: 60%;
+}
+#p14{
+  text-align:right;
+      font-size: 1.1em;
+    color: #444;
+}
+.footerul{
+  margin-left:40%;
+  
+}
+.footerli{
+  
 }
